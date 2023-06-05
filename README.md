@@ -1,5 +1,5 @@
 ### 👋 About Me
-Hi there, I am Jayeon Kim, frontend web developer.  
+Hi there, I am Jayeon Kim, FrontEnd developer from Korea.  
 I'm passionate about creating beautiful and functional websites that are optimized for user exerience.  
 Currently interested in React.js.  
 I love running, hiking and bicycling. 🚵️  
